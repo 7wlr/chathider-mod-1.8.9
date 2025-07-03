@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chathider",
+  "name": "Chat Hider",
+  "description": "Chat hider mod for bedwars lobby 1",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["7wlr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
